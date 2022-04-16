@@ -1,0 +1,15 @@
+body {
+  background-color:#313131;
+}
+
+.button {
+  background-color: lime;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 10px;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: sans-arvo;
+
+}
